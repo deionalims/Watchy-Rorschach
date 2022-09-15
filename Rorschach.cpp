@@ -41,12 +41,6 @@ void Rorschach::drawWatchFace() {
   }
 
   numberBase->drawNumber(minutesRight[minuteRight], false);
-
-//    numberBase->drawNumber(oneHourLeft, true);
-//    numberBase->drawNumber(zeroHourRightLong, true);
-//  
-//    numberBase->drawNumber(zeroMinuteLeftLong, false);
-//    numberBase->drawNumber(oneMinuteRight, false);
 }
 
 
